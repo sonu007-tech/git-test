@@ -1,0 +1,14 @@
+{
+  "decisions": {
+    "796|jquery": {
+      "decision": "fix",
+      "madeAt": 1594276339457
+    },
+    "1518|jquery": {
+      "decision": "fix",
+      "madeAt": 1594276339457
+    }
+  },
+  "rules": {},
+  "version": 1
+}
